@@ -7,4 +7,4 @@
 
 ## Interests
 
-- [[2 Areas/003 自行車/Fixie - Fixed Gear bike|Fixie - Fixed Gear bike]]
+- [[2 Areas/003 自行車/Fixed Gear - bike|Fixed Gear - bike]]
